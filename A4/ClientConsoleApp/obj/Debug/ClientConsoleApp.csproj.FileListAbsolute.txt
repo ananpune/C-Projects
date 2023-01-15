@@ -1,0 +1,8 @@
+C:\Users\anand\Desktop\Sheridan\T4\C# .Net\A4\ClientConsoleApp\bin\Debug\ClientConsoleApp.exe.config
+C:\Users\anand\Desktop\Sheridan\T4\C# .Net\A4\ClientConsoleApp\bin\Debug\ClientConsoleApp.exe
+C:\Users\anand\Desktop\Sheridan\T4\C# .Net\A4\ClientConsoleApp\bin\Debug\ClientConsoleApp.pdb
+C:\Users\anand\Desktop\Sheridan\T4\C# .Net\A4\ClientConsoleApp\obj\Debug\ClientConsoleApp.csproj.AssemblyReference.cache
+C:\Users\anand\Desktop\Sheridan\T4\C# .Net\A4\ClientConsoleApp\obj\Debug\ClientConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\anand\Desktop\Sheridan\T4\C# .Net\A4\ClientConsoleApp\obj\Debug\ClientConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\anand\Desktop\Sheridan\T4\C# .Net\A4\ClientConsoleApp\obj\Debug\ClientConsoleApp.exe
+C:\Users\anand\Desktop\Sheridan\T4\C# .Net\A4\ClientConsoleApp\obj\Debug\ClientConsoleApp.pdb

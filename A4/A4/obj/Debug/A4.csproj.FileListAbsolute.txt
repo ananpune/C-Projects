@@ -1,0 +1,7 @@
+C:\Users\anand\Desktop\Sheridan\T4\C# .Net\A4\A4\obj\Debug\A4.csproj.AssemblyReference.cache
+C:\Users\anand\Desktop\Sheridan\T4\C# .Net\A4\A4\obj\Debug\A4.csproj.CoreCompileInputs.cache
+C:\Users\anand\Desktop\Sheridan\T4\C# .Net\A4\A4\bin\A4.dll.config
+C:\Users\anand\Desktop\Sheridan\T4\C# .Net\A4\A4\bin\A4.dll
+C:\Users\anand\Desktop\Sheridan\T4\C# .Net\A4\A4\bin\A4.pdb
+C:\Users\anand\Desktop\Sheridan\T4\C# .Net\A4\A4\obj\Debug\A4.dll
+C:\Users\anand\Desktop\Sheridan\T4\C# .Net\A4\A4\obj\Debug\A4.pdb

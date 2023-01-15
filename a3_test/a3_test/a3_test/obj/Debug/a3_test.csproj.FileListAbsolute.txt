@@ -1,0 +1,8 @@
+C:\Users\anand\Desktop\Sheridan\T4\C# .Net\a3_test\a3_test\bin\Debug\a3_test.exe.config
+C:\Users\anand\Desktop\Sheridan\T4\C# .Net\a3_test\a3_test\bin\Debug\a3_test.exe
+C:\Users\anand\Desktop\Sheridan\T4\C# .Net\a3_test\a3_test\bin\Debug\a3_test.pdb
+C:\Users\anand\Desktop\Sheridan\T4\C# .Net\a3_test\a3_test\obj\Debug\a3_test.csproj.AssemblyReference.cache
+C:\Users\anand\Desktop\Sheridan\T4\C# .Net\a3_test\a3_test\obj\Debug\a3_test.csproj.SuggestedBindingRedirects.cache
+C:\Users\anand\Desktop\Sheridan\T4\C# .Net\a3_test\a3_test\obj\Debug\a3_test.csproj.CoreCompileInputs.cache
+C:\Users\anand\Desktop\Sheridan\T4\C# .Net\a3_test\a3_test\obj\Debug\a3_test.exe
+C:\Users\anand\Desktop\Sheridan\T4\C# .Net\a3_test\a3_test\obj\Debug\a3_test.pdb

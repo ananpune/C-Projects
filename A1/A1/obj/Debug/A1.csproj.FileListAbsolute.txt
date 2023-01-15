@@ -1,0 +1,8 @@
+C:\Users\anand\Desktop\Sheridan\T4\C# .Net\A1\A1\bin\Debug\A1.exe.config
+C:\Users\anand\Desktop\Sheridan\T4\C# .Net\A1\A1\bin\Debug\A1.exe
+C:\Users\anand\Desktop\Sheridan\T4\C# .Net\A1\A1\bin\Debug\A1.pdb
+C:\Users\anand\Desktop\Sheridan\T4\C# .Net\A1\A1\obj\Debug\A1.csproj.AssemblyReference.cache
+C:\Users\anand\Desktop\Sheridan\T4\C# .Net\A1\A1\obj\Debug\A1.csproj.SuggestedBindingRedirects.cache
+C:\Users\anand\Desktop\Sheridan\T4\C# .Net\A1\A1\obj\Debug\A1.csproj.CoreCompileInputs.cache
+C:\Users\anand\Desktop\Sheridan\T4\C# .Net\A1\A1\obj\Debug\A1.exe
+C:\Users\anand\Desktop\Sheridan\T4\C# .Net\A1\A1\obj\Debug\A1.pdb
